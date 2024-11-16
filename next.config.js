@@ -1,4 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {}
 
-module.exports = nextConfig
+//nextConfig
+module.exports = {
+    env: {
+      APP_NAME: "Fantasy Devs",
+    },
+  };

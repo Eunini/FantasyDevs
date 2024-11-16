@@ -104,7 +104,7 @@ export default function Footer() {
 
             {/* Copyright text */}
             <div className="text-sm text-gray-400 text-center md:text-left">
-              &copy; 2024 Fantasy Devs. All Rights Reserved.
+              &copy; 2024 Inioluwa Atanda. All Rights Reserved.
             </div>
 
           </div>
