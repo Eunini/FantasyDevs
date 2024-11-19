@@ -1,9 +1,12 @@
 import VideoThumb from '@/public/images/hero-image-01.jpg'
 import ModalVideo from '@/components/modal-video'
+import Head from 'next/head';
 
 export default function Hero() {
   return (
     <section>
+
+
       <div className="max-w-6xl mx-auto px-4 sm:px-6 relative">
 
         {/* Illustration behind hero content */}
@@ -31,7 +34,7 @@ export default function Hero() {
                 <a className="btn text-white bg-rose-600 hover:bg-rose-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">Start Building Now!</a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
-                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="#0">Learn more</a>
+                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="/blocks">Learn more</a>
               </div>
             </div>
           </div>

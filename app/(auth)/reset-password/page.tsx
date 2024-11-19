@@ -17,7 +17,6 @@ export default function ResetPassword() {
             <p className="text-xl text-gray-400">We'll email you instructions on how to reset it.</p>
           </div>
 
-          {/* Form */}
           <div className="max-w-sm mx-auto">
             <form>
               <div className="flex flex-wrap -mx-3 mb-4">
@@ -28,12 +27,12 @@ export default function ResetPassword() {
               </div>
               <div className="flex flex-wrap -mx-3 mt-6">
                 <div className="w-full px-3">
-                  <button className="btn text-white bg-purple-600 hover:bg-purple-700 w-full">Reset Password</button>
+                  <button className="btn text-white bg-red-600 hover:bg-red-700 w-full">Reset Password</button>
                 </div>
               </div>
             </form>
             <div className="text-gray-400 text-center mt-6">
-              <Link href="/signin" className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out">Cancel</Link>
+              <Link href="/signin" className="text-red-600 hover:text-gray-200 transition duration-150 ease-in-out">Cancel</Link>
             </div>
           </div>
 
