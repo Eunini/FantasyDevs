@@ -1,4 +1,4 @@
-# Fantasy Devs - Frontend
+# Fantasy Devs - Frontend Template
 
 Welcome to the **Fantasy Devs** website! This is a front-end application built using **Next.js** that allows users to build and manage their dream developer teams. Users can log in, sign up, and select developers based on their skills and roles.
 
