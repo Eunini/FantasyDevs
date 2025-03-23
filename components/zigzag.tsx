@@ -29,7 +29,7 @@ export default function Zigzag() {
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <div className="font-architects-daughter text-xl text-red-600 mb-2">Team Collaboration at Its Best</div>
+                  <div className="font-architects-daughter text-xl text-rose-600 mb-2">Team Collaboration at Its Best</div>
                   <h3 className="h3 mb-3">Build Your Dream Developer Team</h3>
                   <p className="text-xl text-gray-400 mb-4">Fantasy Devs lets you pick and assemble top-tier developers with specific skill sets for your projects, ensuring optimal results and seamless collaboration.</p>
                   <ul className="text-lg text-gray-400 -mb-2">
@@ -65,7 +65,7 @@ export default function Zigzag() {
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-left">
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
-                  <div className="font-architects-daughter text-xl text-red-600 mb-2">Scale Your Team As Needed</div>
+                  <div className="font-architects-daughter text-xl text-rose-600 mb-2">Scale Your Team As Needed</div>
                   <h3 className="h3 mb-3">Scale with Confidence</h3>
                   <p className="text-xl text-gray-400 mb-4">Whether you're working on a startup or an enterprise project, Fantasy Devs makes it easy to scale your team to match your project's size and complexity.</p>
                   <ul className="text-lg text-gray-400 -mb-2">
@@ -101,7 +101,7 @@ export default function Zigzag() {
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <div className="font-architects-daughter text-xl text-red-600 mb-2">Next-Level Innovation</div>
+                  <div className="font-architects-daughter text-xl text-rose-600 mb-2">Next-Level Innovation</div>
                   <h3 className="h3 mb-3">Cutting-Edge Tools and Resources</h3>
                   <p className="text-xl text-gray-400 mb-4">Fantasy Devs provides access to the latest tools, frameworks, and development resources to ensure that your team can always stay ahead of the curve.</p>
                   <ul className="text-lg text-gray-400 -mb-2">
